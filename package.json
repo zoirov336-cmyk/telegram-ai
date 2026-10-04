@@ -1,0 +1,1 @@
+{"name":"zerux-minecraft-afk-bot","version":"1.0.0","main":"bot.js","scripts":{"start":"node bot.js"},"engines":{"node":">=20"},"dependencies":{"mineflayer":"^4.28.0","telegraf":"^4.16.3"}}
